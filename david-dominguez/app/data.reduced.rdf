@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+	xmlns:gvp="http://vocab.getty.edu/ontology#"
+	xmlns:db="http://dbpedia.org/ontology/"
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+
+<rdf:Description rdf:about="http://dbpedia.org/Person-1">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/Person"/>
+	<db:birthYear>2002</db:birthYear>
+	<db:gender>Male</db:gender>
+	<db:ethnicity>PUERTO_RICAN</db:ethnicity>
+	<db:neighbourhood>SOUTH WEST</db:neighbourhood>
+	<db:district>Zone 3</db:district>
+	<gvp:nationalityNonPreferred>WHITE</gvp:nationalityNonPreferred>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/Person-2">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/Person"/>
+	<db:birthYear>2002</db:birthYear>
+	<db:gender>Female</db:gender>
+	<db:ethnicity>NON_HISPANIC</db:ethnicity>
+	<db:neighbourhood>SOUTH WEST</db:neighbourhood>
+	<db:district>Zone 3</db:district>
+	<gvp:nationalityNonPreferred>WHITE</gvp:nationalityNonPreferred>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/Person-3">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/Person"/>
+	<db:birthYear>2002</db:birthYear>
+	<db:gender>Male</db:gender>
+	<db:ethnicity>NON_HISPANIC</db:ethnicity>
+	<db:neighbourhood>SOUTH WEST</db:neighbourhood>
+	<db:district>Zone 3</db:district>
+	<gvp:nationalityNonPreferred>BLACK</gvp:nationalityNonPreferred>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/Person-4">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/Person"/>
+	<db:birthYear>2002</db:birthYear>
+	<db:gender>Male</db:gender>
+	<db:ethnicity>HISPANIC</db:ethnicity>
+	<db:neighbourhood>SOUTH WEST</db:neighbourhood>
+	<db:district>Zone 3</db:district>
+	<gvp:nationalityNonPreferred>OTHER ASIAN</gvp:nationalityNonPreferred>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/Person-5">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/Person"/>
+	<db:birthYear>2002</db:birthYear>
+	<db:gender>Male</db:gender>
+	<db:ethnicity>HISPANIC</db:ethnicity>
+	<db:neighbourhood>SOUTH WEST</db:neighbourhood>
+	<db:district>Zone 3</db:district>
+	<gvp:nationalityNonPreferred>WHITE</gvp:nationalityNonPreferred>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/Person-6">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/Person"/>
+	<db:birthYear>2002</db:birthYear>
+	<db:gender>Female</db:gender>
+	<db:ethnicity>NON_HISPANIC</db:ethnicity>
+	<db:neighbourhood>SOUTH WEST</db:neighbourhood>
+	<db:district>Zone 3</db:district>
+	<gvp:nationalityNonPreferred>WHITE</gvp:nationalityNonPreferred>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/Person-7">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/Person"/>
+	<db:birthYear>2002</db:birthYear>
+	<db:gender>Female</db:gender>
+	<db:ethnicity>PUERTO_RICAN</db:ethnicity>
+	<db:neighbourhood>SOUTH WEST</db:neighbourhood>
+	<db:district>Zone 3</db:district>
+	<gvp:nationalityNonPreferred>WHITE</gvp:nationalityNonPreferred>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/Person-8">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/Person"/>
+	<db:birthYear>2002</db:birthYear>
+	<db:gender>Female</db:gender>
+	<db:ethnicity>PUERTO_RICAN</db:ethnicity>
+	<db:neighbourhood>SOUTH WEST</db:neighbourhood>
+	<db:district>Zone 3</db:district>
+	<gvp:nationalityNonPreferred>WHITE</gvp:nationalityNonPreferred>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/Person-9">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/Person"/>
+	<db:birthYear>2002</db:birthYear>
+	<db:gender>Male</db:gender>
+	<db:ethnicity>NON_HISPANIC</db:ethnicity>
+	<db:neighbourhood>SOUTH WEST</db:neighbourhood>
+	<db:district>Zone 3</db:district>
+	<gvp:nationalityNonPreferred>BLACK</gvp:nationalityNonPreferred>
+</rdf:Description>
+
+</rdf:RDF>
